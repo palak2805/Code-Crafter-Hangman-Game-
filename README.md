@@ -9,3 +9,9 @@ Team Member:
 
 Project Details:
 Version 1.0 has been released by the developer  18:00pm IST(13-03-24).
+
+Additonal features to be required:
+The game looks well-structured and functional. It uses a simple approach to randomly select a word from a predefined list and allows the play to guess letters. But it need some enhancement such that:
+a)Clearer Instructions : Add more instructions to guide the user, especially if they are unfamiliar with the rules of Hangman.
+b)Visual representation of Hangman : Include a visual representation of the Hangman as a feedback mechanism for the user.
+c)Add a timer : Introduce a timer to limit the time for each guess, making the game more exciting.
