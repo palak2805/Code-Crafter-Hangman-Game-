@@ -15,3 +15,5 @@ The game looks well-structured and functional. It uses a simple approach to rand
 a)Clearer Instructions : Add more instructions to guide the user, especially if they are unfamiliar with the rules of Hangman.
 b)Visual representation of Hangman : Include a visual representation of the Hangman as a feedback mechanism for the user.
 c)Add a timer : Introduce a timer to limit the time for each guess, making the game more exciting.
+
+Version 1.1 : In this version, the game doesn't visually represent the number of remaining attempts. You could add a simple graphical representation of the hangman. For ex: drawing different parts of the hangman for each incorrect guess. Also can implement a scoring system by keeping track of the user's score based on the number of attempts taken to guess the word. This adds a competitive element of the game.
