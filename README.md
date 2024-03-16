@@ -17,3 +17,5 @@ b)Visual representation of Hangman : Include a visual representation of the Hang
 c)Add a timer : Introduce a timer to limit the time for each guess, making the game more exciting.
 
 Version 1.1 : In this version, the game doesn't visually represent the number of remaining attempts. You could add a simple graphical representation of the hangman. For ex: drawing different parts of the hangman for each incorrect guess. Also can implement a scoring system by keeping track of the user's score based on the number of attempts taken to guess the word. This adds a competitive element of the game.
+
+Final version: Overall, this Hangman game implementation demonstrates proficiency in both Pyhton programming and GUI development with Tkinter.
