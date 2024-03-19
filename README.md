@@ -33,6 +33,7 @@ Version 1.1 :
 Additional features to be required:
 
 In this version, the game doesn't visually represent the number of remaining attempts. You could add a simple graphical representation of the hangman. For ex: drawing different parts of the hangman for each incorrect guess. Also can implement a scoring system by keeping track of the user's score based on the number of attempts taken to guess the word. This adds a competitive element of the game.
+
 a)Reset: Add a reset function for the player to reset anytime.
 
 Version 1.2: Overall, this Hangman game is efficient and user friendly. But it still needs to add some more exciting features.
