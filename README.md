@@ -9,10 +9,15 @@ Team Member:
 
 Project Details:
 Version 1.0 has been released : 18:00pm IST(13-03-24).
+
 Version 1.1 has been released : 20:00pm IST(14-03-24).
+
 Version 1.2 has been released : 18:30pm IST(15-03-24).
 
+
 Additonal features to be required:
+
+
 Version 1.0 :
 The game looks well-structured and functional. It uses a simple approach to randomly select a word from a predefined list and allows the play to guess letters. But it need some enhancement such that:
 a)Clearer Instructions : Add more instructions to guide the user, especially if they are unfamiliar with the rules of Hangman.
