@@ -26,7 +26,7 @@ Version 1.0 :
 
 The game looks well-structured and functional. It uses a simple approach to randomly select a word from a predefined list and allows the play to guess letters. But it need some enhancement such that:
 
-a)Clearer Instructions : Add more instructions to guide the user, especially if they are unfamiliar with the rules of Hangman.
+a)Reset: Add a reset function for the player to reset anytime.
 
 b)Visual representation of Hangman : Include a visual representation of the Hangman as a feedback mechanism for the user.
 
@@ -43,4 +43,6 @@ Version 1.2: Overall, this Hangman game is efficient and user friendly. But it s
 2.Scoreboard: Add a score board simultaneously while playing a game.
 
 3.Level: Approach for easy to intermediate to hard levels for the game. 
+
+4.Clearer Instructions : Add more instructions to guide the user, especially if they are unfamiliar with the rules of Hangman.
 
