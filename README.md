@@ -46,7 +46,7 @@ Version 1.2: Overall, this Hangman game is efficient and user friendly. But it s
 
 Version 1.3:
 
-in this version the main thing regarding the warning option you added (messagebox.showwarning), it's a good practice to provide feedback to the user when they make invalid inputs or perform actions that are not allowed. Warnings help guide the user in the right direction and improve the overall user experience of the application.
+In this version the main thing regarding the warning option you added (messagebox.showwarning), it's a good practice to provide feedback to the user when they make invalid inputs or perform actions that are not allowed. Warnings help guide the user in the right direction and improve the overall user experience of the application.
 
 Overall, your code is well-written and provides an enjoyable Hangman game experience for users.
 
